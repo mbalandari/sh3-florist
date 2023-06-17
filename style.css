@@ -75,3 +75,12 @@ h2 {
     margin-left: auto;
     font-weight: 300;
 }
+
+.flowers {
+    overflow: hidden;
+}
+
+.flowers img {
+    float: left;
+    width: 33.333%;
+}

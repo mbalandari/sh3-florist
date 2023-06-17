@@ -1,0 +1,34 @@
+html {font-size: 100%;} /*16px*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #48353a;
+}
+
+header {
+    padding: 0.6rem 1rem;
+    overflow: hidden;
+}
+
+header h1 {
+    float: left;
+}
+
+header nav {
+    float: right;
+    margin-top: 0.2rem;
+}
+
+header nav a {
+    color: #48353a;
+    text-decoration: none;
+    margin-left: 0.8rem;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: 'David Libre', serif;
+}

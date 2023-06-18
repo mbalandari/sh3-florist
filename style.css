@@ -207,6 +207,10 @@ footer p {
         margin: 0 auto 2.1rem auto;
         display: block;
     }
+
+    .logos img:last-child {
+        margin-bottom: 0;
+    }
 }
 
 @media (max-width: 480px) {

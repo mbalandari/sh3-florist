@@ -158,3 +158,24 @@ footer p {
     color: #f6f6f8;
     font-weight: 700;
 }
+
+@media (max-width: 720px) {
+    .hero {
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+    }
+
+    .hero h2 {
+        font-size: 2rem;
+        margin-bottom: 0.3rem;
+    }
+
+    .chair {
+        height: 18rem;
+    }
+
+    .quotes div {
+        float: none;
+        width: auto;
+    }
+}

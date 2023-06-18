@@ -102,6 +102,7 @@ h2 {
 
 .quotes img {
     width: 4.7rem;
+    border-radius: 100%;
 }
 
 .quotes blockquote {
